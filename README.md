@@ -1,5 +1,5 @@
 # Fashion MNIST
-#### **Implementing a Tiny ResNet and Tiny GoogleNet and training it on fashion images**
+#### **Implementing Tiny ResNet and training it on fashion images**
 
 Dataset Source: https://www.kaggle.com/datasets/zalando-research/fashionmnist
 
