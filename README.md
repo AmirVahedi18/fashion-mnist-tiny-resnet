@@ -55,8 +55,4 @@ After training for 27 epochs, the model obtained ``93.35%`` accuracy on the test
 The trained model is available in ``./trained_model/tiny_resnet.h5``.
 
 Learning curves is as follows:
-
-
-
-
- 
+![learning_curves](https://user-images.githubusercontent.com/77887540/235919535-4093c0c9-bbfc-4103-8185-a45911a8f6bd.png)
